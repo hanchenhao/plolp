@@ -1,5 +1,5 @@
 ### Never Stop Winning
-Don't fear experimenting or making mistakes; never settle for "good enough."
+*Treat every attempt as a win; never settle for "good enough."*
 
 **Motivation:** Users often stick with the first prompt that yields an acceptable answer, even if it's not perfect. There can be a reluctance to try new approaches once something "mostly works," due to fear of failure or wasting time. However, this means missing out on potentially better solutions — if you never experiment further, you won't discover if a different tactic could produce a significantly better result.
 
